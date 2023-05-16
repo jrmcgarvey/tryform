@@ -2,4 +2,4 @@
 
 This is an embedded link: 
 
-<a href="nytimes.com">New York Times</a>
+<a href="https://nytimes.com">New York Times</a>
